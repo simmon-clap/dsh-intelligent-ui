@@ -1,0 +1,5 @@
+docs/
+acceptance/
+test/
+build.mjs
+*.log

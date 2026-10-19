@@ -1,0 +1,4 @@
+# 安装后启用本插件（Host 半注册 render_ui 工具与提示词，Client 半注册工具卡片视图）。
+- insert:
+    - id: intelligent-ui
+      name: dsh-intelligent-ui

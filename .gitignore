@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+acceptance/screenshots/
+acceptance/out/
+docs/demo/
+
+*.tgz
