@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.2.1 — 2026-10-19
+
+### Added
+
+- Showcase README with user-facing before/after, 30-second demo, and screenshots.
+- `screenshots.json` for plugin-market storefronts (6 screenshots).
+- `docs/COMPONENTS.md` and `docs/ARCHITECTURE.md`.
+- GitHub Actions CI, MIT license, release tarball.
+
+### Changed
+
+- Package metadata: `private: false`, repository/homepage/bugs, `dsh-plugin` keywords.
+- No runtime behavior changes from v0.2.0.
+
 ## v0.2.0 — 2026-10-19
 
 ### Added
